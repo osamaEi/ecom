@@ -3,6 +3,7 @@
 <?php include(TEMPLATE_FRONT . DS . "header.php"); ?>
 
     <!-- Page Content -->
+<h1>EDITED GIT HUB</h1>
     <div class="container">
 
         <div class="row">
